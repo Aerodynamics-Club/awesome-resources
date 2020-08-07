@@ -14,8 +14,11 @@ Please feel free to [pull requests](https://github.com/Aerodynamics-Club/awesome
 - [Repositories](#repositories)
 
 ## Papers
+### Localisation
 #### Visual Inertial Odometry
 * ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)
+### Motion Planning
+* Minimum Snap Trajectory Generation [[Paper]] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]] (https://github.com/ethz-asl/mav_trajectory_generation)
 ## Tutorials
 ## Blogs
 ## Courses

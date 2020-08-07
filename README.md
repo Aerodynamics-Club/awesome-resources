@@ -3,7 +3,7 @@
 - This repository contains a curated list of useful (read awesome) resources related to aerodynamics, aerial robots and simulators.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/Aerodynamics-Club/awesome-resources/pulls) to add papers.
+Fork this repository and make changes to the forked repository. Make the changes to your personal copy. Once the changes are ready to be included in this repository, submit a PR to this repository. Instructions for the process are available [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Keep periodicaly checking your active PRs for reviews and suggestions by reviewers [here](https://github.com/Aerodynamics-Club/awesome-resources/pulls).
 
 ## Table of Contents
 - [Papers](#papers)
@@ -14,8 +14,11 @@ Please feel free to [pull requests](https://github.com/Aerodynamics-Club/awesome
 - [Repositories](#repositories)
 
 ## Papers
+### Localisation
 #### Visual Inertial Odometry
 * ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)
+### Motion Planning
+* Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/mav_trajectory_generation)
 ## Tutorials
 ## Blogs
 ## Courses

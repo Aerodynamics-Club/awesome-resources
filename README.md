@@ -14,11 +14,13 @@ Fork this repository and make changes to the forked repository. Make the changes
 - [Repositories](#repositories)
 
 ## Papers
-### Localisation
+#### Localisation
 #### Visual Inertial Odometry
-* ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)
-### Motion Planning
-* Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/mav_trajectory_generation)
+* ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)[[Code]](https://github.com/ethz-asl/rovio)
+* OKVIS [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/0278364914554813?journalCode=ijra)[[Code]](https://github.com/ethz-asl/okvis)
+* VINS-MONO [[Paper]](https://ieeexplore.ieee.org/document/8421746)[[Code]](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+#### Motion Planning
+* Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/okvis)
 ## Tutorials
 ## Blogs
 ## Courses

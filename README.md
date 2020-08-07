@@ -23,6 +23,10 @@ Fork this repository and make changes to the forked repository. Make the changes
 ## Blogs
 ## Courses
 * [Coursera] [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)
+* [Coursera] [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning)]
+* [Coursera] [Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility?specialization=robotics)]
+* [Coursera] [Robotics: Perception](https://www.coursera.org/learn/robotics-perception?specialization=robotics)]
+* [Coursera] [Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning)]
 ## Videos
 #### Talks
   * [The astounding athletic power of quadcopters](https://youtu.be/w2itwFJCgFQ)

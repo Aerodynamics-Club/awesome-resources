@@ -26,7 +26,7 @@ Fork this repository and make changes to the forked repository. Make the changes
   IEEE Transactions on Robotics,2018
   
 #### Motion Planning
-* Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/okvis)
+* Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/mav_trajectory_generation)
 > D. Mellinger and V. Kumar, "Minimum snap trajectory generation and control for quadrotors," 2011 IEEE International Conference on Robotics and Automation, Shanghai, 2011, pp. 2520-2525, doi: 10.1109/ICRA.2011.5980409.
 ## Tutorials
 ## Blogs

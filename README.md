@@ -3,7 +3,7 @@
 - This repository contains a curated list of useful (read awesome) resources related to aerodynamics, aerial robots and simulators.
 
 ## Contributing
-Fork this repository and make changes to the forked repository. Make the changes to your personal copy. Once the changes are ready to be included in this repository, submit a PR to this repository. Instructions for the process are available [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Keep periodicaly checking your active PRs for reviews and suggestions by reviewers [here](https://github.com/Aerodynamics-Club/awesome-resources/pulls).
+Fork this repository and make changes to the forked repository. Make the changes to your personal copy. Once the changes are ready to be included in this repository, submit a PR to this repository. Instructions for the process are available [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Keep periodically checking your active pull requests for reviews and suggestions by reviewers [here](https://github.com/Aerodynamics-Club/awesome-resources/pulls).
 
 ## Table of Contents
 - [Papers](#papers)
@@ -22,7 +22,12 @@ Fork this repository and make changes to the forked repository. Make the changes
 ## Tutorials
 ## Blogs
 ## Courses
-* [Coursera] [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)
+* Robotics Specialisation
+  - [Coursera] [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)
+  - [Coursera] [Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning)
+  - [Coursera] [Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility?specialization=robotics)
+  - [Coursera] [Robotics: Perception](https://www.coursera.org/learn/robotics-perception?specialization=robotics)
+  - [Coursera] [Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning)
 ## Videos
 #### Talks
   * [The astounding athletic power of quadcopters](https://youtu.be/w2itwFJCgFQ)

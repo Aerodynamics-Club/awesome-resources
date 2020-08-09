@@ -14,11 +14,20 @@ Fork this repository and make changes to the forked repository. Make the changes
 - [Repositories](#repositories)
 
 ## Papers
-### Localisation
+#### Localisation
 #### Visual Inertial Odometry
-* ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)
-### Motion Planning
+* ROVIO [[Paper]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/263423/1/ROVIO.pdf)[[Code]](https://github.com/ethz-asl/rovio)
+>   Bloesch, M., Burri, M., Omari, S., Hutter, M., & Siegwart, R. (2017). Iterated extended Kalman filter based visual-inertial odometry using direct photometric feedback. The International Journal of Robotics Research, 36(10), 1053–1072. 
+* OKVIS [[Paper]](https://journals.sagepub.com/doi/abs/10.1177/0278364914554813?journalCode=ijra)[[Code]](https://github.com/ethz-asl/okvis)
+> [1] Stefan Leutenegger, Paul Timothy Furgale, Vincent Rabaud, Margarita Chli, Kurt Konolige, Roland Siegwart. Keyframe-Based Visual-Inertial SLAM using Nonlinear Optimization. In Proceedings of Robotics: Science and Systems, 2013.                             
+[2] Stefan Leutenegger, Simon Lynen, Michael Bosse, Roland Siegwart and Paul Timothy Furgale. Keyframe-based visual–inertial odometry using nonlinear optimization. The International Journal of Robotics Research, 2015.
+* VINS-MONO [[Paper]](https://ieeexplore.ieee.org/document/8421746)[[Code]](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+>   Qin, Tong and Li, Peiliang and Shen, Shaojie, VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator,
+  IEEE Transactions on Robotics,2018
+  
+#### Motion Planning
 * Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/mav_trajectory_generation)
+> D. Mellinger and V. Kumar, "Minimum snap trajectory generation and control for quadrotors," 2011 IEEE International Conference on Robotics and Automation, Shanghai, 2011, pp. 2520-2525, doi: 10.1109/ICRA.2011.5980409.
 ## Tutorials
 ## Blogs
 ## Courses

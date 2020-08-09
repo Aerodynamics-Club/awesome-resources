@@ -34,6 +34,11 @@ Fork this repository and make changes to the forked repository. Make the changes
 ## Videos
 #### Talks
   * [The astounding athletic power of quadcopters](https://youtu.be/w2itwFJCgFQ)
+  * [Artificial Intelligence Podcast by Lex Fridman](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  * [Robotics Today](https://roboticstoday.github.io/index.html)
+  * [MIT RoboSeminars](https://www.youtube.com/channel/UCK2tKzmSFFnpFhUXtRKjvnQ)
+  * [Stanford - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD)
+  * [CMU RI Robotics Seminars](https://www.youtube.com/playlist?list=PLCFD85BC79FE703DF)
 ## Repositories
 * Autonomous landing UAV [[Link]](https://github.com/MikeS96/autonomous_landing_uav)
 

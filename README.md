@@ -40,6 +40,25 @@ Fork this repository and make changes to the forked repository. Make the changes
   * [Stanford - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD)
   * [CMU RI Robotics Seminars](https://www.youtube.com/playlist?list=PLCFD85BC79FE703DF)
 ## Repositories
+
+### Repositories from BITS Pilani
+
+* GenNav ERC-BPGC [[Link]](https://github.com/ERC-BPGC/gennav)
+* Omnibase ERC-BPGC [[Link]](https://github.com/ERC-BPGC/omnibase)]
+* GenRL SforAIDL [[Link]](https://github.com/SforAiDl/genrl)
+
+
+---
+
+### External Repositories
+
 * Autonomous landing UAV [[Link]](https://github.com/MikeS96/autonomous_landing_uav)
+* RotorS Simulator ETHZ-ASL [[Link]](https://github.com/ethz-asl/rotors_simulator)
+* Graph Based Exploration Planner (GBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/gbplanner_ros)
+* Motion Primitives Based Exploration Planner (MBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/mbplanner_ros)
 
+### Datasets, Resources and Environments
 
+* Clearpath Robotics Gazebo [[Link]](https://github.com/clearpathrobotics/cpr_gazebo)
+* TU Delft Gazebo Models [[Link]](https://github.com/tudelft/gazebo_models)
+* Dataset of Gazebo Worlds, Models and Maps [[Link]](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps)

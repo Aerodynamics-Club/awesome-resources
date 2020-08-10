@@ -44,7 +44,7 @@ Fork this repository and make changes to the forked repository. Make the changes
 ### Repositories from BITS Pilani
 
 * GenNav ERC-BPGC [[Link]](https://github.com/ERC-BPGC/gennav)
-* Omnibase ERC-BPGC [[Link]](https://github.com/ERC-BPGC/omnibase)]
+* Omnibase ERC-BPGC [[Link]](https://github.com/ERC-BPGC/omnibase)
 * GenRL SforAIDL [[Link]](https://github.com/SforAiDl/genrl)
 
 

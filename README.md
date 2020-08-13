@@ -57,9 +57,9 @@ Fork this repository and make changes to the forked repository. Make the changes
 * RotorS Simulator ETHZ-ASL [[Link]](https://github.com/ethz-asl/rotors_simulator)
 * Graph Based Exploration Planner (GBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/gbplanner_ros)
 * Motion Primitives Based Exploration Planner (MBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/mbplanner_ros)
-* Implementaions of Various Algorithms in Python[[Link]](https://github.com/TheAlgorithms/Python)
-* FASTER: Fast and Safe Trajectory Planner for Flights in Unknown Environments[[Link]](https://github.com/mit-acl/faster)
-* General ROS Navigation (GeRoNa)[[Link]](https://github.com/cogsys-tuebingen/gerona)
+* Implementaions of Various Algorithms in Python [[Link]](https://github.com/TheAlgorithms/Python)
+* FASTER: Fast and Safe Trajectory Planner for Flights in Unknown Environments [[Link]](https://github.com/mit-acl/faster)
+* General ROS Navigation (GeRoNa) [[Link]](https://github.com/cogsys-tuebingen/gerona)
 
 ### Datasets, Resources and Environments
 

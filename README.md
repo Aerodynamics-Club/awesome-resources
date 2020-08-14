@@ -22,6 +22,7 @@ Fork this repository and make changes to the forked repository. Make the changes
   
 #### Motion Planning
 * Minimum Snap Trajectory Generation [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5980409) [[Code]](https://github.com/ethz-asl/mav_trajectory_generation)
+* BIT*-based path planning for micro aerial vehicles [[Paper]](https://ieeexplore.ieee.org/document/7792953)[[BIT*-Paper]](https://arxiv.org/abs/1405.5848)
 ## Tutorials
 ## Blogs
 ## Courses
@@ -56,6 +57,9 @@ Fork this repository and make changes to the forked repository. Make the changes
 * RotorS Simulator ETHZ-ASL [[Link]](https://github.com/ethz-asl/rotors_simulator)
 * Graph Based Exploration Planner (GBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/gbplanner_ros)
 * Motion Primitives Based Exploration Planner (MBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/mbplanner_ros)
+* Implementaions of Various Algorithms in Python [[Link]](https://github.com/TheAlgorithms/Python)
+* FASTER: Fast and Safe Trajectory Planner for Flights in Unknown Environments [[Link]](https://github.com/mit-acl/faster)
+* General ROS Navigation (GeRoNa) [[Link]](https://github.com/cogsys-tuebingen/gerona)
 
 ### Datasets, Resources and Environments
 

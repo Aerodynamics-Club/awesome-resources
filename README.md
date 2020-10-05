@@ -60,6 +60,8 @@ Fork this repository and make changes to the forked repository. Make the changes
 * Implementaions of Various Algorithms in Python [[Link]](https://github.com/TheAlgorithms/Python)
 * FASTER: Fast and Safe Trajectory Planner for Flights in Unknown Environments [[Link]](https://github.com/mit-acl/faster)
 * General ROS Navigation (GeRoNa) [[Link]](https://github.com/cogsys-tuebingen/gerona)
+* All about Robotics [[Link]](https://github.com/mathiasmantelli/all_about_robotics)
+* MAV Trajectory Generation (ETHZ ASL) [[Link]](https://github.com/ethz-asl/mav_trajectory_generation)
 
 ### Datasets, Resources and Environments
 
